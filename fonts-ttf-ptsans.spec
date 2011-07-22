@@ -1,5 +1,4 @@
 %define pkgname PTSans
-%define distsuffix edm
 
 Summary: Fonts to support national alphabet of Russian people
 Name: fonts-ttf-ptsans
@@ -18,12 +17,6 @@ Headset PTSans is part of the project to create a set of Russian fonts free publ
 license, designed to meet the needs of multi-ethnic country in the font that will not only 
 serve in official and business correspondence, but also serve as a tool for development 
 of national literature and intercultural exchange.
-
-%description  -l ru
-Гарнитура ПТ Санс является частью проекта по созданию комплекта бесплатных общедоступных 
-российских шрифтов с открытой пользовательской лицензией, призванных обеспечить потребности 
-многонациональной страны в шрифте, который позволит не только обслуживать официальную и деловую переписку, 
-но и служить средством развития национальных письменностей и межкультурного обмена.
 
 %prep
 %setup -c -n %{pkgname}
