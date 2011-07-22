@@ -19,7 +19,7 @@ serve in official and business correspondence, but also serve as a tool for deve
 of national literature and intercultural exchange.
 
 %prep
-%setup -c -n %{pkgname}
+%setup -q -c -n %{pkgname}
 
 %build
 
