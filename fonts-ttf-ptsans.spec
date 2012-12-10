@@ -43,3 +43,23 @@ ln -s ../../..%_datadir/fonts/TTF/ptsans \
 %{_datadir}/fonts/TTF/ptsans/fonts.scale
 %{_sysconfdir}/X11/fontpath.d/ttf-ptsans:pri=50
 
+
+
+%changelog
+* Mon Aug 13 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 20101225-1mdv2012.0
++ Revision: 814530
+- update to 20101225
+- spec cleanup
+- minor fixes
+
+* Fri Jul 22 2011 Sergey Zhemoitel <serg@mandriva.org> 1-1
++ Revision: 691021
+- fix spec
+- imported package fonts-ttf-ptsans
+
+  + Александр Казанцев <kazancas@mandriva.org>
+    - import fonts-ttf-ptsans
+
+
+* Thu Jun 17 2010 Alexander Kazancev <kazancas@mandriva.ru>
+- Initial build.
