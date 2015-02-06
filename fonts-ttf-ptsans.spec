@@ -3,7 +3,7 @@
 Summary: Fonts to support national alphabet of Russian people
 Name: fonts-ttf-ptsans
 Version: 20101225
-Release: %mkrel 1
+Release: 2
 License: open
 Group: System/Fonts/True type
 URL: http://www.fontstock.com/public/PTSans.zip
