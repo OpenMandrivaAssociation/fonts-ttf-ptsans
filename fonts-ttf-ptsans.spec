@@ -6,7 +6,7 @@ Version: 20101225
 Release: 2
 License: open
 Group: System/Fonts/True type
-URL: http://www.fontstock.com/public/PTSans.zip
+URL: https://www.fontstock.com/public/PTSans.zip
 Source0: %{pkgname}.zip
 BuildArch: noarch
 BuildRequires: freetype-tools
